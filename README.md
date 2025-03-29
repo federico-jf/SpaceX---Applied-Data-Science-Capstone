@@ -29,7 +29,7 @@ In this module, you will build a dashboard to analyze launch records interactive
 - Build a dashboard to analyze launch records interactively with Plotly Dash.
 - Build an interactive map to analyze the launch site proximity with Folium.
 
-## Predictive Analysis (Classification)
+# Predictive Analysis (Classification)
 In this module, you will use machine learning to determine if the first stage of Falcon 9 will land successfully. You will split your data into training data and test data to find the best Hyperparameter for SVM, Classification Trees, and Logistic Regression. Then find the method that performs best using test data.
 
 ## Learning Objectives
